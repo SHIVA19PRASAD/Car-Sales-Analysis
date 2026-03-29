@@ -1,4 +1,6 @@
 # Car-Sales-Analysis
+Problem Statement: The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth. 1.Sales Overview, 2.Average Price Analysis, 3.Cars Sold Metrics, 4.	Company-Wise Sales Trend in Grid Form. 
+
 Overview :
 Built an interactive Power BI dashboard analyzing 24K+ car sales records to track sales performance, pricing trends, and regional demand patterns.
 
