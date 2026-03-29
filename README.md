@@ -16,7 +16,7 @@ High sales concentration in specific regions and vehicle categories
 Clear pricing and demand patterns across customer segments
 
 Tools Used :
-Power BI, DAX Functions, Power Query and Data Modeling
+Power BI (Dashboard Development), DAX Functions (YTD, MTD, YOY KPIs), Data Modeling.
 
 Outcome :
 Delivered a data-driven dashboard enabling analysis of sales trends, performance tracking, and business decision-making.
